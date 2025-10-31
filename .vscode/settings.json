@@ -42,5 +42,14 @@
   // Live and Live/Five Server settings
   "fiveServer.port": 5501,
   "fiveServer.injectBody": false,
-  "liveServer.settings.port": 5504
+  "liveServer.settings.port": 5504,
+  "[html]": {
+    "files.trimTrailingWhitespaceInRegexAndStrings": false,
+    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoIndent": "none",
+    "editor.autoIndentOnPasteWithinString": false,
+    "editor.detectIndentation": false
+  }
 }
